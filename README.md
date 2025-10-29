@@ -1,5 +1,5 @@
 # PP-3-Comp-228
-## We are group **South
+## We are group **South**
 Project #3 Comp 228: Sorted Doubly Link List ADT
 
 **This is a group project; groups will be assigned.**
