@@ -14,13 +14,13 @@ In addition to the operations specified in ListInterface.java, an iterator class
 1. In order, starting at the beginning of the list
 2. In reverse order, starting at the end of the list
 3. In random order, all items on the list are retrieved exactly one time
-  *Collections.shuffle() cannot be used
+   -Collections.shuffle() cannot be used
 The list ADT must include a public facing method that allows the logical level to indicate which type of iteration is to be done the next time an enhanced for loop executes.
 
 A toString() method must also be developed.
 
 Test cases and a test program must also be developed.
 
-*At least two test cases for each list operation and the toString, and at least one test case for each type of iteration.
-    *Each test case must explicitly identify the expected output and expected change in the list.
-*Test program must be consistent with the set of the test cases.
+-At least two test cases for each list operation and the toString, and at least one test case for each type of iteration.
+    -Each test case must explicitly identify the expected output and expected change in the list.
+-Test program must be consistent with the set of the test cases.
